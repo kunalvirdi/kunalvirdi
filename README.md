@@ -6,11 +6,15 @@
 
 👩‍💻 I'm currently working on my Web Development Skills
 
+✨ Learn things by making projects.
+
 🔥 I'm currently learning JavaScript related technologies
 
 ⭐ Know how to implement various data structures in code
 
 💬 Ask me about web related things. Always ready for help
+
+
 
 ## 🔗 Profiles:
 
